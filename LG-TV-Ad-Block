@@ -40,3 +40,6 @@
 0.0.0.0 mediaservices.cdn-apple.com
 0.0.0.0 api.thetake.com
 0.0.0.0 sentry.io
+0.0.0.0 aip.statsig.com
+0.0.0.0 cdn77.uphor.com
+0.0.0.0 a1.amagi.tv
